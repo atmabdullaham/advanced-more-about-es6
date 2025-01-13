@@ -5,7 +5,10 @@
  * 4. arrow function
  * 5. destructuring and spread operator
  * 6. (object.keys, object.values,)es5 (object.entries)es6
- * 7. for of, (useable at array and string)(not useable for object)
+ * 7. for of, (useable at array and string)(not useable for object),
+ * 8. for in, (useable at object)
+ * 
+ * 
  */
 
 const a = 56;
